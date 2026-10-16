@@ -25,3 +25,8 @@ O objetivo deste projeto é simular o monitoramento em tempo real de um reservat
 2. Instale a biblioteca de cores necessária executando o seguinte comando no seu terminal:
    ```bash
    pip install colorama
+## Resultado da Execução no Terminal
+
+Veja abaixo como o sistema exibe os alertas coloridos utilizando a biblioteca colorama:
+
+![Print do Terminal](Print_terminal_ag11_ds1_jefferson_borges.png)
